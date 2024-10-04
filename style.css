@@ -70,6 +70,8 @@ a.active,a:hover{
     font-family: "Roboto",sans-serif;
     font-size: 18px;
     font-weight: bold;
+    display: block;
+    margin: auto;
     background: #B10000;
     width: 180px;
     padding: 20px;
