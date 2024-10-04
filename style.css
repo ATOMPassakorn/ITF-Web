@@ -92,6 +92,11 @@ p{
     font-size: 100px;
 }
 
+img {
+    display: block;
+    margin: auto;
+}
+
 footer{
     display: flex;
     flex-wrap: wrap;
