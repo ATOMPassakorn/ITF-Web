@@ -47,7 +47,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 
-a.active,a:hover{
+nav ul li a.active,nav ul li a:hover{
     background: #500000;
     transition: .5s;
 }
@@ -66,11 +66,16 @@ a.active,a:hover{
     display: none;
 }
 
+.lab14 {
+    margin: auto;
+}
+
 .button {
     font-family: "Roboto",sans-serif;
     font-size: 18px;
     font-weight: bold;
     display: block;
+    margin-top: 10px;
     margin: auto;
     background: #B10000;
     width: 180px;
