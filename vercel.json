@@ -1,5 +1,5 @@
 {
-    "rewrites": [
+    "builds": [
         { "source": "/", "destination": "/lab14.html" }
     ]
 }
