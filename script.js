@@ -4,7 +4,7 @@ let contacts = [];
 
 function setUsername() {
     const username = document.getElementById('usernameInput').value;
-    document.getElementById('username').textContent = username;
+    document.getElementById('username').textContent = username + "'s";
 }
 
 function setAvatar() {
